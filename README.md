@@ -25,7 +25,6 @@
 			<td><code><img width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="Wordpress" title="Wordpress"/></code></td>
 			<td><code><img width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code></td>
 			<td><code><img width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td>
-			<td><img src="https://komarev.com/ghpvc/?username=kipBO&style=flat&label=Visitors" alt="Visitors" title="Visitors"/></td>
 		</tr>
 	</table>
 </div>
@@ -34,4 +33,4 @@ unexpected <code>{ on line 32</code>.
 But do not fear that faulty errors appear,
 because the guy that knows <code>how to google</code> is here.
 
-
+<img src="https://komarev.com/ghpvc/?username=kipBO&style=flat&label=Visitors" alt="Visitors" title="Visitors"/>
