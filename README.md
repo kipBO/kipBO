@@ -32,6 +32,6 @@ Rose are red, violets are blue,
 unexpected <code>{ on line 32</code>.
 But do not fear that faulty errors appear,
 because the guy that knows <code>how to google</code> is here.
-
+  
 
 <img src="https://komarev.com/ghpvc/?username=kipBO&style=flat&label=Visitors" alt="Visitors" title="Visitors"/>
