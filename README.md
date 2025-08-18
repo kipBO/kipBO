@@ -29,7 +29,7 @@
 	</table>
 </div>
 Rose are red, violets are blue,
-unexpected ``{ on line 32``.
+unexpected <code>{ on line 32</code>.
 But do not fear that faulty errors appear,
 because the bot that knows ``how to google`` is here.
 
