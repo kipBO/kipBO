@@ -1,6 +1,6 @@
 # Technologia! CALL NOW: <code>1 800 SYNTAX PLUMBER</code>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z3dnVrbjU3cWdjd2hqMXQ3N3hienZicmpuZDI2bDF5Y2x4MW5xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEUAbg1Q7mQ1a84int/giphy.gif" alt="Technologia"/>
+<img align="right" src="https://github.com/kipBO/kipBO/blob/main/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457862325a33646e5672626a55336357646a643268714d5851334e336869656e5a69636d70755a44493262444635593278344d57357863535a6c63443.gif?raw=true" alt="Technologia"/>
 <div align="left">
 	<table>
 		<tr>
