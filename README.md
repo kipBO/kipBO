@@ -24,6 +24,7 @@
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code></td>
 		</tr>
 	</table>
-	![Preview](https://raw.githubusercontent.com/codump/basic-express-ejs-with-api/refs/heads/main/public/images/preview.gif)
-	![Technologia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z3dnVrbjU3cWdjd2hqMXQ3N3hienZicmpuZDI2bDF5Y2x4MW5xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEUAbg1Q7mQ1a84int/giphy.gif)
 </div>
+
+![Preview](https://raw.githubusercontent.com/codump/basic-express-ejs-with-api/refs/heads/main/public/images/preview.gif)
+	![Technologia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z3dnVrbjU3cWdjd2hqMXQ3N3hienZicmpuZDI2bDF5Y2x4MW5xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEUAbg1Q7mQ1a84int/giphy.gif)
