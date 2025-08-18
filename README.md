@@ -1,5 +1,4 @@
-# Technologia! CALL NOW: <code>1 800 SYNTAX PLUMBER</code> ![](https://komarev.com/ghpvc/?username=kipBO&style=flat-square&label=VISITORS)
-
+# Technologia! CALL NOW: <code>1 800 SYNTAX PLUMBER</code>
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z3dnVrbjU3cWdjd2hqMXQ3N3hienZicmpuZDI2bDF5Y2x4MW5xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEUAbg1Q7mQ1a84int/giphy.gif" alt="Technologia"/>
 <div align="left">
@@ -32,5 +31,6 @@
 Rose are red, violets are blue,
 unexpected <code>{ on line 32</code>.
 But do not fear that faulty errors appear,
-because the guy that knows <code>how to google</code> is here.
+because the guy that knows <code>how to google</code> is here. ![](https://komarev.com/ghpvc/?username=kipBO&style=plastic&label=VISITORS)
+
 
