@@ -36,6 +36,6 @@ because the guy that knows <code>how to google</code> is here.
 <p>
 	<img src="https://komarev.com/ghpvc/?username=kipBO&style=flat&label=Visitors" alt="Visitors" title="Visitors" align="left" />
 	<img src="https://img.shields.io/discord/729943368364326952?logo=discord&logoColor=white&label=Clevoro" alt="Discord" title="Discord" align="left" />
-	ConLog <img src="https://badgen.net/github/last-commit/codump/conlog" alt="ConLog" title="ConLog" align="left" />
+	<img src="https://badgen.net/github/last-commit/codump/conlog?label=ConLog commit" alt="ConLog" title="ConLog" align="left" />
 </p>
 
