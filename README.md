@@ -35,6 +35,6 @@ because the guy that knows <code>how to google</code> is here.
 <br/><br/>
 <p>
 	<img src="https://komarev.com/ghpvc/?username=kipBO&style=flat&label=Visitors" alt="Visitors" title="Visitors" align="left" />
-	<object data="https://img.shields.io/discord/729943368364326952?logo=discord&logoColor=white&label=Clevoro&link=https://discord.gg/UYg87yGa3A" align="left"></object>
+	<img src="https://img.shields.io/discord/729943368364326952?logo=discord&logoColor=white&label=Clevoro" alt="Discord" title="Discord" align="left" />
 </p>
 
